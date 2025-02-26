@@ -1,0 +1,22 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Pham Lan Anh B2106826",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.20.1",
+    "eslint-config-prettier": "^10.0.1",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.0"
+  }
+}
